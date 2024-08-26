@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\backend\\ProductWebAPI.csproj": {}
+    "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\Chess\\backend\\ProductWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\backend\\ProductWebAPI.csproj": {
+    "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\Chess\\backend\\ProductWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\backend\\ProductWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\Chess\\backend\\ProductWebAPI.csproj",
         "projectName": "ProductWebAPI",
-        "projectPath": "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\backend\\ProductWebAPI.csproj",
+        "projectPath": "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\Chess\\backend\\ProductWebAPI.csproj",
         "packagesPath": "C:\\Users\\aman.jaiswal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\backend\\obj\\",
+        "outputPath": "C:\\Users\\aman.jaiswal\\Documents\\Projects\\WebApplication1\\Chess\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aman.jaiswal\\AppData\\Roaming\\NuGet\\NuGet.Config",

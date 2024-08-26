@@ -12,6 +12,8 @@ const Navbar = () => {
                 <li><Link to="/" className="navbar-item button-link">Home</Link></li>
                 <li><Link to="/about" className="navbar-item button-link" >Add Player </Link></li>
                 <li><Link to="/services" className="navbar-item button-link" >View Player</Link></li>
+                <li><Link to="/WinPercent" className="navbar-item button-link" >Wins Percent</Link></li>
+                <li><Link to="/AverageWins" className="navbar-item button-link" >Average Wins</Link></li>
             </ul>
         </nav>
     );
